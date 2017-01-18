@@ -4,7 +4,6 @@
     <id>Misc.SpecificationPattern</id>
     <version>$version$</version>
     <title>Misc libraries - Specification Pattern</title>
-    <iconUrl></iconUrl>
     <projectUrl>https://github.com/csciallano/specification</projectUrl>
     <licenseUrl>https://github.com/csciallano/specification/blob/master/License.txt</licenseUrl>
     <authors>csciallano</authors>
@@ -12,7 +11,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>This package offers an implementation of the specification pattern.</description>
     <summary>This package offers an implementation of the specification pattern.</summary>
-    <releaseNotes>Initial release initiale: This package offers an implementation of the specification pattern..</releaseNotes>
+    <releaseNotes>Initial release: This package offers an implementation of the specification pattern..</releaseNotes>
     <copyright>Copyright © 2017 Clément Sciallano</copyright>
     <language>en-EN</language>
   </metadata>
