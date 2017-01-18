@@ -5,4 +5,3 @@
 /.vs
 /src/Specification/bin/Debug/netstandard1.6
 /src/Specification/obj/Debug/netstandard1.6
-/src/Specification/project.lock.json
